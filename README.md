@@ -32,3 +32,5 @@
 [![Programming](https://img.shields.io/badge/-💻 Programming-000)](https://en.wikipedia.org/wiki/Computer_programming)
 
 <p><img height="120px" align="left" src="https://github-readme-stats.vercel.app/api?username=xTornaido&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /><img height="120px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=xShamir&hide_border=true&theme=radical"/></p>
+
+<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
