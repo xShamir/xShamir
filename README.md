@@ -1,4 +1,5 @@
-<a href="https://xTornaido.github.io"><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xTornaido/xTornaido/master/code.gif" width="500" height="320" /></a>
+
+<a href=""><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500" height="320" /></a>
 
 ### Languages
 
@@ -23,16 +24,11 @@
 
 ### Hobbies
 
-I like to program, play video games in my spare time and travel! I also like to play badminton.
+[![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
+[![Football](https://img.shields.io/badge/-⚽ Football-000)](https://wikipedia.org/wiki/Football)
+[![Video Games](https://img.shields.io/badge/-🎮 Video Games-000)](https://wikipedia.org/wiki/Video_game)
+[![Traveling](https://img.shields.io/badge/-🗺️ Traveling-000)](https://pakistan.com/)
+[![Mountain Biking](https://img.shields.io/badge/-⛰️ Mountain Biking-000)](en.wikipedia.org/wiki/Mountain_biking)
+[![Programming](https://img.shields.io/badge/-💻 Programming-000)](https://en.wikipedia.org/wiki/Computer_programming)
 
-## About
-
-Hey! I'm Tornaido, a 13 year old self taught passionate software engineer from Pakistan. I've been programming since 2020 and have loved it ever since. I am eager to learn & love to learn new skills & languages.If you would like to contact me, here is my Discord ID: ```Tornaido#3570```
-
-## Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/xTornaido/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20Saphyra-000)](https://github.com/xTornaido/Saphyra)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/xTornaido/Network-Tools)
-
-<a href="https://xTornaido.github.io"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=xTornaido&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xTornaido&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href=""><img height="120px" align="right" src="https://github-readme-stats.vercel.app/api?username=xTornaido&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /> <img height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xShamir&theme=radical"/><img height="120px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xTornaido&layout=compact&hide_title=true&hide_border=true&langs_count=9&theme=radical"/></a>
