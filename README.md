@@ -9,7 +9,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
-[![C#](https://img.shields.io/badge/-C-000?&logo=CSharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
