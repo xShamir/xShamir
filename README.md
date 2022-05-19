@@ -19,8 +19,8 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://www.kubernetes.io)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/windows)
-[![Express.js](https://img.shields.io/badge/-Express.JS-000?&logo=Express)](https://www.expressjs.com)
-[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://www.nodejs.org)
+[![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express)](https://www.expressjs.com)
+[![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=node.js)](https://www.nodejs.org)
 
 ### Hobbies
 
