@@ -1,5 +1,5 @@
 
-<a href=""><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500" height="320" /></a>
+<a href=""><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="450" height="320" /></a>
 
 ### Languages
 
