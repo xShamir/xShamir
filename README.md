@@ -28,7 +28,6 @@
 [![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
 [![Football](https://img.shields.io/badge/-⚽ Football-000)](https://wikipedia.org/wiki/Football)
 [![Video Games](https://img.shields.io/badge/-🎮 Video Games-000)](https://wikipedia.org/wiki/Video_game)
-[![Traveling](https://img.shields.io/badge/-🗺️ Traveling-000)](https://pakistan.com/)
 [![Mountain Biking](https://img.shields.io/badge/-⛰️ Mountain Biking-000)](en.wikipedia.org/wiki/Mountain_biking)
 [![Programming](https://img.shields.io/badge/-💻 Programming-000)](https://en.wikipedia.org/wiki/Computer_programming)
 
