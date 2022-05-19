@@ -20,6 +20,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/windows)
 [![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express)](https://www.expressjs.com)
+[![React.JS](https://img.shields.io/badge/-React.JS-000?&logo=React)](https://www.reactjs.org)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=node.js)](https://www.nodejs.org)
 
 ### Hobbies
