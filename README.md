@@ -1,5 +1,5 @@
 
-<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></p>
+<p><img align="right" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
