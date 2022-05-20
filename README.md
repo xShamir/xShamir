@@ -1,8 +1,7 @@
 
-<a href=""><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></a>
+<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></p>
 
 ### Languages
-
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net)
