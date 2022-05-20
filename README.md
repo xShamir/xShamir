@@ -1,5 +1,5 @@
-
-<p><img align="right" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></p>
+<p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" />
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
@@ -10,6 +10,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+</p>
 
 ### Technologies
 
