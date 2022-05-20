@@ -1,18 +1,16 @@
 
 <a href=""><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" /></a>
 
-<div style="align:right;">
-  ### Languages
+### Languages
 
-  [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
-  [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
-  [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com)
-  [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
-  [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
-  [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-</div>
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
 ### Technologies
 
