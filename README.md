@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="100px" height="500" />
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
