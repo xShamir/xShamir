@@ -5,8 +5,7 @@
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://en.wikipedia.org/wiki/SQL)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
@@ -17,6 +16,8 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://www.kubernetes.io)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/windows)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)](https://www.mysql.com)
 [![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express)](https://www.expressjs.com)
 [![React.JS](https://img.shields.io/badge/-React.JS-000?&logo=React)](https://www.reactjs.org)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=node.js)](https://www.nodejs.org)
