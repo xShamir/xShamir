@@ -1,4 +1,4 @@
-<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
+<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="570px" height="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
