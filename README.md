@@ -1,6 +1,6 @@
 <p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="480px" height="360px"/></p>
 
-### Languages
+###   Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
@@ -10,7 +10,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
-### Technologies
+###   Technologies
 
 [![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com)
@@ -23,7 +23,7 @@
 [![React.JS](https://img.shields.io/badge/-React.JS-000?&logo=React)](https://www.reactjs.org)
 [![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=node.js)](https://www.nodejs.org)
 
-### Hobbies
+###   Hobbies
 
 [![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
 [![Football](https://img.shields.io/badge/-⚽ Football-000)](https://wikipedia.org/wiki/Football)
