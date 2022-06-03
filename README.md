@@ -1,6 +1,6 @@
 <p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="320px" height="320px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
 
-### Languages
+<b>Languages</b>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
