@@ -1,4 +1,4 @@
-<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="500px" height="420px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
+<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="420px" height="420px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
 
 ### Languages
 
