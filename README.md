@@ -1,4 +1,4 @@
-<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="420px" height="340px"/></p>
+<p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="480px" height="380px"/></p>
 
 ### Languages
 
