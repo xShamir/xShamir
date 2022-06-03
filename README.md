@@ -1,5 +1,7 @@
 <p><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xShamir/xShamir/master/code.gif" width="520px" height="280px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShamir&hide_border=true&theme=radical"/></p>
 
+<p><img height="120px" align="left" src="https://github-readme-stats.vercel.app/api?username=xShamir&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /><img height="120px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=xShamir&hide_border=true&theme=radical"/></p>
+
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
@@ -29,7 +31,5 @@
 [![Video Games](https://img.shields.io/badge/-🎮 Video Games-000)](https://wikipedia.org/wiki/Video_game)
 [![Mountain Biking](https://img.shields.io/badge/-⛰️ Mountain Biking-000)](en.wikipedia.org/wiki/Mountain_biking)
 [![Programming](https://img.shields.io/badge/-💻 Programming-000)](https://en.wikipedia.org/wiki/Computer_programming)
-
-<p><img height="120px" align="left" src="https://github-readme-stats.vercel.app/api?username=xShamir&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /><img height="120px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=xShamir&hide_border=true&theme=radical"/></p>
 
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
